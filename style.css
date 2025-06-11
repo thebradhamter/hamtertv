@@ -10,3 +10,19 @@ body {
 #page {
     text-align: center;
 }
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:focus {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
